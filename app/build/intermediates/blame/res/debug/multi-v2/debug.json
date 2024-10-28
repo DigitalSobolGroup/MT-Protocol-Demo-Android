@@ -1,0 +1,132 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/vladilen/Downloads/Connect_2022/MT-Protocol-Demo-Android/MT-Protocol-Demo-Android/app/build/intermediates/res/merged/debug/values_values.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/vladilen/Downloads/Connect_2022/MT-Protocol-Demo-Android/MT-Protocol-Demo-Android/app/src/main/res/values/dimens.xml",
+                    "from": {
+                        "startLines": "3,4",
+                        "startColumns": "4,4",
+                        "startOffsets": "89,147",
+                        "endColumns": "57,55",
+                        "endOffsets": "142,198"
+                    },
+                    "to": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,113",
+                        "endColumns": "57,55",
+                        "endOffsets": "108,164"
+                    }
+                },
+                {
+                    "source": "/Users/vladilen/Downloads/Connect_2022/MT-Protocol-Demo-Android/MT-Protocol-Demo-Android/app/src/main/res/values/styles.xml",
+                    "from": {
+                        "startLines": "6,15",
+                        "startColumns": "4,4",
+                        "startOffsets": "186,510",
+                        "endLines": "12,17",
+                        "endColumns": "12,12",
+                        "endOffsets": "472,665"
+                    },
+                    "to": {
+                        "startLines": "19,26",
+                        "startColumns": "4,4",
+                        "startOffsets": "1208,1499",
+                        "endLines": "25,28",
+                        "endColumns": "12,12",
+                        "endOffsets": "1494,1654"
+                    }
+                },
+                {
+                    "source": "/Users/vladilen/Downloads/Connect_2022/MT-Protocol-Demo-Android/MT-Protocol-Demo-Android/app/src/main/res/values/strings.xml",
+                    "from": {
+                        "startLines": "8,3,16,13,4,7,15,6,5,17,12,11,10,14,9",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "308,56,953,574,110,270,768,233,165,1069,540,478,434,616,361",
+                        "endColumns": "52,53,115,41,54,37,184,36,67,26,33,61,43,151,72",
+                        "endOffsets": "356,105,1064,611,160,303,948,265,228,1091,569,535,473,763,429"
+                    },
+                    "to": {
+                        "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "169,222,276,392,434,489,527,712,749,817,843,877,939,983,1135",
+                        "endColumns": "52,53,115,41,54,37,184,36,67,25,33,61,43,151,72",
+                        "endOffsets": "217,271,387,429,484,522,707,744,812,838,872,934,978,1130,1203"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/vladilen/Downloads/Connect_2022/MT-Protocol-Demo-Android/MT-Protocol-Demo-Android/app/build/intermediates/res/merged/debug/values-v11_values-v11.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/vladilen/Downloads/Connect_2022/MT-Protocol-Demo-Android/MT-Protocol-Demo-Android/app/src/main/res/values-v11/styles.xml",
+                    "from": {
+                        "startLines": "6",
+                        "startColumns": "4",
+                        "startOffsets": "177",
+                        "endLines": "8",
+                        "endColumns": "12",
+                        "endOffsets": "309"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "4",
+                        "endColumns": "12",
+                        "endOffsets": "187"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/vladilen/Downloads/Connect_2022/MT-Protocol-Demo-Android/MT-Protocol-Demo-Android/app/build/intermediates/res/merged/debug/values-v14_values-v14.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/vladilen/Downloads/Connect_2022/MT-Protocol-Demo-Android/MT-Protocol-Demo-Android/app/src/main/res/values-v14/styles.xml",
+                    "from": {
+                        "startLines": "7",
+                        "startColumns": "4",
+                        "startOffsets": "220",
+                        "endLines": "9",
+                        "endColumns": "12",
+                        "endOffsets": "366"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "4",
+                        "endColumns": "12",
+                        "endOffsets": "201"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/vladilen/Downloads/Connect_2022/MT-Protocol-Demo-Android/MT-Protocol-Demo-Android/app/build/intermediates/res/merged/debug/values-w820dp-v13_values-w820dp-v13.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/vladilen/Downloads/Connect_2022/MT-Protocol-Demo-Android/MT-Protocol-Demo-Android/app/src/main/res/values-w820dp/dimens.xml",
+                    "from": {
+                        "startLines": "7",
+                        "startColumns": "4",
+                        "startOffsets": "305",
+                        "endColumns": "57",
+                        "endOffsets": "358"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "57",
+                        "endOffsets": "108"
+                    }
+                }
+            ]
+        }
+    ]
+}

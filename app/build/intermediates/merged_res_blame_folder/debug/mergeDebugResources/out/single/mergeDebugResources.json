@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "com.bosch.glm100c.easy_connect.app-debug-4:/layout_activity_main.xml.flat",
+        "source": "com.bosch.glm100c.easy_connect.app-main-6:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.bosch.glm100c.easy_connect.app-debug-4:/drawable-xhdpi_ic_launcher.png.flat",
+        "source": "com.bosch.glm100c.easy_connect.app-main-6:/drawable-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.bosch.glm100c.easy_connect.app-debug-4:/drawable-hdpi_ic_navigation_refresh.png.flat",
+        "source": "com.bosch.glm100c.easy_connect.app-main-6:/drawable-hdpi/ic_navigation_refresh.png"
+    },
+    {
+        "merged": "com.bosch.glm100c.easy_connect.app-debug-4:/drawable-hdpi_ic_launcher.png.flat",
+        "source": "com.bosch.glm100c.easy_connect.app-main-6:/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.bosch.glm100c.easy_connect.app-debug-4:/menu_main.xml.flat",
+        "source": "com.bosch.glm100c.easy_connect.app-main-6:/menu/main.xml"
+    },
+    {
+        "merged": "com.bosch.glm100c.easy_connect.app-debug-4:/drawable-hdpi_ic_check_disabled.png.flat",
+        "source": "com.bosch.glm100c.easy_connect.app-main-6:/drawable-hdpi/ic_check_disabled.png"
+    },
+    {
+        "merged": "com.bosch.glm100c.easy_connect.app-debug-4:/layout_item_device.xml.flat",
+        "source": "com.bosch.glm100c.easy_connect.app-main-6:/layout/item_device.xml"
+    },
+    {
+        "merged": "com.bosch.glm100c.easy_connect.app-debug-4:/drawable-mdpi_ic_launcher.png.flat",
+        "source": "com.bosch.glm100c.easy_connect.app-main-6:/drawable-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.bosch.glm100c.easy_connect.app-debug-4:/drawable-hdpi_ic_check_active.png.flat",
+        "source": "com.bosch.glm100c.easy_connect.app-main-6:/drawable-hdpi/ic_check_active.png"
+    },
+    {
+        "merged": "com.bosch.glm100c.easy_connect.app-debug-4:/drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "com.bosch.glm100c.easy_connect.app-main-6:/drawable-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.bosch.glm100c.easy_connect.app-debug-4:/drawable-hdpi_ic_check_normal.png.flat",
+        "source": "com.bosch.glm100c.easy_connect.app-main-6:/drawable-hdpi/ic_check_normal.png"
+    }
+]

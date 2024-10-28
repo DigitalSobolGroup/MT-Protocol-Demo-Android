@@ -1,0 +1,57 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.bosch.glm100c.easy_connect"
+4    android:versionCode="4"
+5    android:versionName="1.0.3" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="19"
+9        android:targetSdkVersion="28" />
+10
+11    <uses-permission android:name="android.permission.BLUETOOTH" />
+11-->/Users/vladilen/Downloads/Connect_2022/MT-Protocol-Demo-Android/MT-Protocol-Demo-Android/app/src/main/AndroidManifest.xml:4:5-68
+11-->/Users/vladilen/Downloads/Connect_2022/MT-Protocol-Demo-Android/MT-Protocol-Demo-Android/app/src/main/AndroidManifest.xml:4:22-65
+12    <uses-permission android:name="android.permission.BLUETOOTH_ADMIN" />
+12-->/Users/vladilen/Downloads/Connect_2022/MT-Protocol-Demo-Android/MT-Protocol-Demo-Android/app/src/main/AndroidManifest.xml:5:5-74
+12-->/Users/vladilen/Downloads/Connect_2022/MT-Protocol-Demo-Android/MT-Protocol-Demo-Android/app/src/main/AndroidManifest.xml:5:22-71
+13    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+13-->/Users/vladilen/Downloads/Connect_2022/MT-Protocol-Demo-Android/MT-Protocol-Demo-Android/app/src/main/AndroidManifest.xml:6:5-80
+13-->/Users/vladilen/Downloads/Connect_2022/MT-Protocol-Demo-Android/MT-Protocol-Demo-Android/app/src/main/AndroidManifest.xml:6:22-78
+14
+15    <application
+15-->/Users/vladilen/Downloads/Connect_2022/MT-Protocol-Demo-Android/MT-Protocol-Demo-Android/app/src/main/AndroidManifest.xml:8:5-25:19
+16        android:allowBackup="true"
+16-->/Users/vladilen/Downloads/Connect_2022/MT-Protocol-Demo-Android/MT-Protocol-Demo-Android/app/src/main/AndroidManifest.xml:9:9-35
+17        android:debuggable="true"
+18        android:extractNativeLibs="true"
+19        android:icon="@drawable/ic_launcher"
+19-->/Users/vladilen/Downloads/Connect_2022/MT-Protocol-Demo-Android/MT-Protocol-Demo-Android/app/src/main/AndroidManifest.xml:10:9-45
+20        android:label="@string/app_name"
+20-->/Users/vladilen/Downloads/Connect_2022/MT-Protocol-Demo-Android/MT-Protocol-Demo-Android/app/src/main/AndroidManifest.xml:11:9-41
+21        android:testOnly="true"
+22        android:theme="@style/AppTheme" >
+22-->/Users/vladilen/Downloads/Connect_2022/MT-Protocol-Demo-Android/MT-Protocol-Demo-Android/app/src/main/AndroidManifest.xml:12:9-40
+23        <activity
+23-->/Users/vladilen/Downloads/Connect_2022/MT-Protocol-Demo-Android/MT-Protocol-Demo-Android/app/src/main/AndroidManifest.xml:13:9-21:20
+24            android:name="com.bosch.glm100c.easy_connect.MainActivity"
+24-->/Users/vladilen/Downloads/Connect_2022/MT-Protocol-Demo-Android/MT-Protocol-Demo-Android/app/src/main/AndroidManifest.xml:14:13-41
+25            android:label="@string/app_name" >
+25-->/Users/vladilen/Downloads/Connect_2022/MT-Protocol-Demo-Android/MT-Protocol-Demo-Android/app/src/main/AndroidManifest.xml:15:13-45
+26            <intent-filter>
+26-->/Users/vladilen/Downloads/Connect_2022/MT-Protocol-Demo-Android/MT-Protocol-Demo-Android/app/src/main/AndroidManifest.xml:16:13-20:29
+27                <action android:name="android.intent.action.MAIN" />
+27-->/Users/vladilen/Downloads/Connect_2022/MT-Protocol-Demo-Android/MT-Protocol-Demo-Android/app/src/main/AndroidManifest.xml:17:17-69
+27-->/Users/vladilen/Downloads/Connect_2022/MT-Protocol-Demo-Android/MT-Protocol-Demo-Android/app/src/main/AndroidManifest.xml:17:25-66
+28
+29                <category android:name="android.intent.category.LAUNCHER" />
+29-->/Users/vladilen/Downloads/Connect_2022/MT-Protocol-Demo-Android/MT-Protocol-Demo-Android/app/src/main/AndroidManifest.xml:19:17-77
+29-->/Users/vladilen/Downloads/Connect_2022/MT-Protocol-Demo-Android/MT-Protocol-Demo-Android/app/src/main/AndroidManifest.xml:19:27-74
+30            </intent-filter>
+31        </activity>
+32
+33        <service android:name="com.bosch.glm100c.easy_connect.bluetooth.BLEService" />
+33-->/Users/vladilen/Downloads/Connect_2022/MT-Protocol-Demo-Android/MT-Protocol-Demo-Android/app/src/main/AndroidManifest.xml:23:9-57
+33-->/Users/vladilen/Downloads/Connect_2022/MT-Protocol-Demo-Android/MT-Protocol-Demo-Android/app/src/main/AndroidManifest.xml:23:18-54
+34    </application>
+35
+36</manifest>

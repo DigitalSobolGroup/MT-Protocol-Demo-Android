@@ -1,0 +1,7 @@
+com.bosch.glm100c.easy_connect.app-pngs-0 /Users/vladilen/Downloads/Connect_2022/MT-Protocol-Demo-Android/MT-Protocol-Demo-Android/app/build/generated/res/pngs/debug
+com.bosch.glm100c.easy_connect.app-resValues-1 /Users/vladilen/Downloads/Connect_2022/MT-Protocol-Demo-Android/MT-Protocol-Demo-Android/app/build/generated/res/resValues/debug
+com.bosch.glm100c.easy_connect.app-mergeDebugResources-2 /Users/vladilen/Downloads/Connect_2022/MT-Protocol-Demo-Android/MT-Protocol-Demo-Android/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir
+com.bosch.glm100c.easy_connect.app-mergeDebugResources-3 /Users/vladilen/Downloads/Connect_2022/MT-Protocol-Demo-Android/MT-Protocol-Demo-Android/app/build/intermediates/incremental/debug/mergeDebugResources/stripped.dir
+com.bosch.glm100c.easy_connect.app-debug-4 /Users/vladilen/Downloads/Connect_2022/MT-Protocol-Demo-Android/MT-Protocol-Demo-Android/app/build/intermediates/merged_res/debug/mergeDebugResources
+com.bosch.glm100c.easy_connect.app-debug-5 /Users/vladilen/Downloads/Connect_2022/MT-Protocol-Demo-Android/MT-Protocol-Demo-Android/app/src/debug/res
+com.bosch.glm100c.easy_connect.app-main-6 /Users/vladilen/Downloads/Connect_2022/MT-Protocol-Demo-Android/MT-Protocol-Demo-Android/app/src/main/res

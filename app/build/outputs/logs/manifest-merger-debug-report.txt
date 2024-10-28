@@ -1,0 +1,67 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/vladilen/Downloads/Connect_2022/MT-Protocol-Demo-Android/MT-Protocol-Demo-Android/app/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /Users/vladilen/Downloads/Connect_2022/MT-Protocol-Demo-Android/MT-Protocol-Demo-Android/app/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /Users/vladilen/Downloads/Connect_2022/MT-Protocol-Demo-Android/MT-Protocol-Demo-Android/app/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /Users/vladilen/Downloads/Connect_2022/MT-Protocol-Demo-Android/MT-Protocol-Demo-Android/app/src/main/AndroidManifest.xml:2:1-27:12
+	package
+		INJECTED from /Users/vladilen/Downloads/Connect_2022/MT-Protocol-Demo-Android/MT-Protocol-Demo-Android/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/vladilen/Downloads/Connect_2022/MT-Protocol-Demo-Android/MT-Protocol-Demo-Android/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/vladilen/Downloads/Connect_2022/MT-Protocol-Demo-Android/MT-Protocol-Demo-Android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/vladilen/Downloads/Connect_2022/MT-Protocol-Demo-Android/MT-Protocol-Demo-Android/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.BLUETOOTH
+ADDED from /Users/vladilen/Downloads/Connect_2022/MT-Protocol-Demo-Android/MT-Protocol-Demo-Android/app/src/main/AndroidManifest.xml:4:5-68
+	android:name
+		ADDED from /Users/vladilen/Downloads/Connect_2022/MT-Protocol-Demo-Android/MT-Protocol-Demo-Android/app/src/main/AndroidManifest.xml:4:22-65
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from /Users/vladilen/Downloads/Connect_2022/MT-Protocol-Demo-Android/MT-Protocol-Demo-Android/app/src/main/AndroidManifest.xml:5:5-74
+	android:name
+		ADDED from /Users/vladilen/Downloads/Connect_2022/MT-Protocol-Demo-Android/MT-Protocol-Demo-Android/app/src/main/AndroidManifest.xml:5:22-71
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /Users/vladilen/Downloads/Connect_2022/MT-Protocol-Demo-Android/MT-Protocol-Demo-Android/app/src/main/AndroidManifest.xml:6:5-80
+	android:name
+		ADDED from /Users/vladilen/Downloads/Connect_2022/MT-Protocol-Demo-Android/MT-Protocol-Demo-Android/app/src/main/AndroidManifest.xml:6:22-78
+application
+ADDED from /Users/vladilen/Downloads/Connect_2022/MT-Protocol-Demo-Android/MT-Protocol-Demo-Android/app/src/main/AndroidManifest.xml:8:5-25:19
+INJECTED from /Users/vladilen/Downloads/Connect_2022/MT-Protocol-Demo-Android/MT-Protocol-Demo-Android/app/src/main/AndroidManifest.xml:8:5-25:19
+	android:extractNativeLibs
+		INJECTED from /Users/vladilen/Downloads/Connect_2022/MT-Protocol-Demo-Android/MT-Protocol-Demo-Android/app/src/main/AndroidManifest.xml
+	android:label
+		ADDED from /Users/vladilen/Downloads/Connect_2022/MT-Protocol-Demo-Android/MT-Protocol-Demo-Android/app/src/main/AndroidManifest.xml:11:9-41
+	android:icon
+		ADDED from /Users/vladilen/Downloads/Connect_2022/MT-Protocol-Demo-Android/MT-Protocol-Demo-Android/app/src/main/AndroidManifest.xml:10:9-45
+	android:allowBackup
+		ADDED from /Users/vladilen/Downloads/Connect_2022/MT-Protocol-Demo-Android/MT-Protocol-Demo-Android/app/src/main/AndroidManifest.xml:9:9-35
+	android:theme
+		ADDED from /Users/vladilen/Downloads/Connect_2022/MT-Protocol-Demo-Android/MT-Protocol-Demo-Android/app/src/main/AndroidManifest.xml:12:9-40
+activity#com.bosch.glm100c.easy_connect.MainActivity
+ADDED from /Users/vladilen/Downloads/Connect_2022/MT-Protocol-Demo-Android/MT-Protocol-Demo-Android/app/src/main/AndroidManifest.xml:13:9-21:20
+	android:label
+		ADDED from /Users/vladilen/Downloads/Connect_2022/MT-Protocol-Demo-Android/MT-Protocol-Demo-Android/app/src/main/AndroidManifest.xml:15:13-45
+	android:name
+		ADDED from /Users/vladilen/Downloads/Connect_2022/MT-Protocol-Demo-Android/MT-Protocol-Demo-Android/app/src/main/AndroidManifest.xml:14:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/vladilen/Downloads/Connect_2022/MT-Protocol-Demo-Android/MT-Protocol-Demo-Android/app/src/main/AndroidManifest.xml:16:13-20:29
+action#android.intent.action.MAIN
+ADDED from /Users/vladilen/Downloads/Connect_2022/MT-Protocol-Demo-Android/MT-Protocol-Demo-Android/app/src/main/AndroidManifest.xml:17:17-69
+	android:name
+		ADDED from /Users/vladilen/Downloads/Connect_2022/MT-Protocol-Demo-Android/MT-Protocol-Demo-Android/app/src/main/AndroidManifest.xml:17:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/vladilen/Downloads/Connect_2022/MT-Protocol-Demo-Android/MT-Protocol-Demo-Android/app/src/main/AndroidManifest.xml:19:17-77
+	android:name
+		ADDED from /Users/vladilen/Downloads/Connect_2022/MT-Protocol-Demo-Android/MT-Protocol-Demo-Android/app/src/main/AndroidManifest.xml:19:27-74
+service#com.bosch.glm100c.easy_connect.bluetooth.BLEService
+ADDED from /Users/vladilen/Downloads/Connect_2022/MT-Protocol-Demo-Android/MT-Protocol-Demo-Android/app/src/main/AndroidManifest.xml:23:9-57
+	android:name
+		ADDED from /Users/vladilen/Downloads/Connect_2022/MT-Protocol-Demo-Android/MT-Protocol-Demo-Android/app/src/main/AndroidManifest.xml:23:18-54
+uses-sdk
+INJECTED from /Users/vladilen/Downloads/Connect_2022/MT-Protocol-Demo-Android/MT-Protocol-Demo-Android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/vladilen/Downloads/Connect_2022/MT-Protocol-Demo-Android/MT-Protocol-Demo-Android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/vladilen/Downloads/Connect_2022/MT-Protocol-Demo-Android/MT-Protocol-Demo-Android/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/vladilen/Downloads/Connect_2022/MT-Protocol-Demo-Android/MT-Protocol-Demo-Android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/vladilen/Downloads/Connect_2022/MT-Protocol-Demo-Android/MT-Protocol-Demo-Android/app/src/main/AndroidManifest.xml
